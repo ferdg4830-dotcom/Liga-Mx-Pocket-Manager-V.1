@@ -1,0 +1,6 @@
+{
+  "appId": "com.tudt.ligamxpocketmanager",
+  "appName": "Liga MX Pocket Manager",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
